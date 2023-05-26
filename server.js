@@ -6,8 +6,9 @@ const stytch = require("stytch")
 require('dotenv').config()
 
 const app = express();
-const port = process.env.PORT;
-const path = `http://localhost:${port}`
+const port = process.env.PORT || 3000;
+const url= process.env.URL+"/" || "http://localhost:";
+const path = `${url}${port}`
 const magicLinkUrl = `${path}/authenticate`
 
 // bodyParser allows us to access the body of the post request
