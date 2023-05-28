@@ -63,7 +63,7 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
 </table>
 
 
-##Memes
+## Memes
 
 <img style="width:45%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
 
