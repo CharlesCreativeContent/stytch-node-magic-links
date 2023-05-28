@@ -1,39 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello Socks | Stytch example</title>
+    <title>LifeGPT | Stytch example</title>
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
 </head>
 <body>
 <div class="app">
     <div class="nav">
-        <h2>Hello Socks</h2>
+        <h2>Hello <a href="/">LifeGPT</a></h2>
         <div>
-            <span class="navItem">Women</span>
-            <span class="navItem">Men</span>
-            <span class="navItem">Kids</span>
-            <span class="navItem">Sale</span>
-            <span class="navItem">Community</span>
+            <a href="/health">
+            <span class="navItem">Health</span>
+            </a>
+            <a href="/wealth">
+            <span class="navItem">Wealth</span>
+            </a>
+            <a href="/spirit">
+            <span class="navItem">Spirit</span>
+            </a>
         </div>
         <div>
-            <img class="icon" src="/images/shopping_bag.png">
-            <img class="icon" src="/images/person.png">
+            <form action="/logout" method="GET">
+                <div class="actions">
+                    <a><b>Logout</b></a>
+                    <input class="arrow" type="image" src="/images/arrow.png">
+                </div>
+            </form>
         </div>
     </div>
     <div class="content">
         <div class="card">
             <div class="cardContent">
-                <h1>Welcome back!</h1>
-                <p>Your socks just can't wait to be shipped!</p>
-                <form action="/logout" method="GET">
-                    <div class="actions">
-                        <a><b>Logout</b></a>
-                        <input class="arrow" type="image" src="/images/arrow.png">
-                    </div>
-                </form>
+                <h1 id="title">Welcome back!</h1>
+                <p id="chatBox">We can't wait to help.</p>
+                
+        <input id="prompt" type="text" placeholder="What health questions do you have?">
+        <img id="send" src="/images/arrow.png" style="height:30px;width:30px;position:relative;top:10px;">
             </div>
         </div>
     </div>
+
 </div>
+<script>
+    let title = document.getElementById("title")
+    let chatBox = document.getElementById("chatBox")
+    let input = document.getElementById("prompt")
+    //function to clear inputs
+    let clearPrompt = function(){
+        title.innerHTML = ""
+        chatBox.innerHTML = ""
+    }
+    //function to update chat
+    let updateChat = function(answer){
+        chatBox.innerHTML = answer
+    }
+    let grabPrompt = function(){
+    let prompt = input.innerHTML
+    var query = encodeURIComponent(prompt)
+    fetch("/prompt?input="+query).then(text=>text.text()).then(guess=>{
+
+        console.log(guess)
+        //clear text
+
+    clearPrompt()
+    updateChat(guess)
+    })
+    }
+
+    document.querySelector("#send").addEventListener("click",grabPrompt)
+    
+
+
+</script>
 </body>
 </html>

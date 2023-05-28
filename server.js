@@ -3,10 +3,18 @@ const bodyParser = require("body-parser");
 const url = require('url');
 const stytch = require("stytch")
 
+require('dotenv').config()
+
+const { Configuration, OpenAIApi } = require("openai");
+const configuration = new Configuration({
+  apiKey: "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",
+});
+
+const openai = new OpenAIApi(configuration);
+
 const app = express();
-const port = process.env.PORT || 3000;
-const url= "https://stytch-node-magic-links.vercel.app"
-const path = `${url}`
+const port = process.env.PORT;
+const path = `http://localhost:${port}`
 const magicLinkUrl = `${path}/authenticate`
 
 // bodyParser allows us to access the body of the post request
@@ -28,6 +36,28 @@ const client = new stytch.Client({
 // define the homepage route
 app.get("/", (req, res) => {
     res.render('loginOrSignUp');
+});
+
+let prompter = async function(prompt){
+
+    const response = await openai.createCompletion({
+        model: "text-davinci-003",
+        prompt,
+        temperature: .50,
+        max_tokens: 7,
+      });
+      
+      return response
+}
+
+// define the homepage route
+app.get("/prompt", async (req, res) => {
+
+    let input = req.query.input
+    let answer = await prompter(input)
+    let text = answer.data.choices[0].text
+    res.send(text)
+    
 });
 
 // takes the email entered on the homepage and hits the stytch

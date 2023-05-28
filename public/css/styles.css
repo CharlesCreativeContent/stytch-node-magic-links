@@ -35,7 +35,7 @@ body {
 
 .content {
     align-items: center;
-    background-image: url("../images/hellosocks-background.png");
+    background-image: url("../images/hellosocks-background.gif");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -95,6 +95,9 @@ input:focus {
 
 a {
     font-size: 20px;
+}
+h2 a, .nav div a{
+    color: white;
 }
 
 a:hover {
