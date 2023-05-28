@@ -24,13 +24,14 @@ My learning was focused on trying out as many Stytch Demos as possible in a few 
 
 ## Stytch Developer Experience
 
-I liked that Stytch used the magic links for their signup process, because it is very minimal friction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. 
+<video src=”https://youtube.com/”></video>
+I liked that Stytch used the magic links for their signup process, because it is very minimal videofriction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. 
 
 There were enough demos for almost every stack and the dev team has an open [forum](https://forum.stytch.com/) and [slack group](https://stytch.slack.com/ssb/redirect) you can join to talk to the team. The demos were very quick to get you from 0 to locally hosted application. 
 
-Some of the newer demos even have auto-deploy buttons to vercel and netlify for example, which I think were very convenient. I would love if more of the demos were deployment ready, being able to directly upload your demos into [vercel](https://github.com/CharlesCreativeContent/stytch-next/blob/main/README.md#vercel), [netlify](https://github.com/CharlesCreativeContent/stytch-netlify-example/blob/main/README.md#netlify), heroku, etc. and have a live demo in seconds would be a game changer for onboarding and top of funnel outreach.
-
 I tried the 5 demos below and was able to deploy all of them locally, but had some difficulty hosting them. Decreasing the time to a hosted application can greatly increase conversion rates on developer adoption.
+
+Some of the newer demos already have auto-deploy buttons to [vercel](https://github.com/CharlesCreativeContent/stytch-next/blob/main/README.md#vercel) and [netlify](https://github.com/CharlesCreativeContent/stytch-netlify-example/blob/main/README.md#netlify) for example, which I think were very convenient. I would love if more of the demos were deployment ready, being able to directly upload your demos into vercel, netlify, heroku, etc. and have a live demo in seconds would be a game changer for onboarding and top of funnel outreach.
 
 
 
@@ -65,16 +66,16 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
 
 ## Memes
 
-<img style="width:45%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
+<img style="width:100%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
 
 
-<img style="width:50%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
+<img style="width:100%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
 
 
-<img style="width:50%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rp.jpg?raw=true">
+<img style="width:100%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rp.jpg?raw=true">
 
 
-<img style="width:50%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
+<img style="width:100%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
 
 
-<img style="width:50%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
+<img style="width:100%;float:left" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
