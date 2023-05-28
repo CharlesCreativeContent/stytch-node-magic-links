@@ -3,10 +3,10 @@
 
 <img src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/app.gif?raw=true" width="100%" alt="gif of app login screen"/>
 
-## Tech used: ![OpenAI BADGE](https://img.shields.io/static/v1?label=|&message=OPENAI&color=23555f&style=plastic&logo=openai)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=285f65&style=plastic&logo=nodejs)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=STYTCH&color=3c7f5d&style=plastic&logo=css3)
+## Tech used: ![OpenAI BADGE](https://img.shields.io/static/v1?label=|&message=OPENAI&color=23555f&style=plastic&logo=openai)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=285f65&style=plastic&logo=javascript)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=STYTCH&color=3c7f5d&style=plastic&logo=css3)
 
 
-Thank you for taking the time to check out Life GPT! We used OpenAI to generate health, wealth and spiritual qutoes and Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
+Thank you for taking the time to check out LifeGPT! We used OpenAI to generate health, wealth and spiritual qutoes and Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
 
 My learning was focused on trying out as many Stytch Demos as possible in a few hours and picking the one to build a small ChapGPT style application
 
@@ -24,7 +24,7 @@ My learning was focused on trying out as many Stytch Demos as possible in a few 
 
 ## Stytch Developer Experience
 
-I liked that Stytch used the magic links for their signup process, because it is very minimal friction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. There were enough demos for almost every stack and the dev team has an open [forum](https://forum.stytch.com/) and [slack group](https://stytch.slack.com/ssb/redirect) you can join to talk to the team. The demos were very quick to get you from 0 to locally hosted application.  Some of the newer demos even have auto-deploy buttons to vercel and netlify for example, which I think were very convenient. I would love if more of the demos were deployment ready, being able to directly upload your demos into vercel, netlify, heroku, etc. and have a live demo in seconds would be a game changer for onboarding and top of funnel outreach. I tried the 5 demos below and was able to deploy all of them locally, but had some difficulty hosting them. Decreasing the time to a hosted application can greatly increase conversion rates on developer adoption.
+I liked that Stytch used the magic links for their signup process, because it is very minimal friction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. There were enough demos for almost every stack and the dev team has an open [forum](https://forum.stytch.com/) and [slack group](https://stytch.slack.com/ssb/redirect) you can join to talk to the team. The demos were very quick to get you from 0 to locally hosted application.  Some of the newer demos even have auto-deploy buttons to vercel and netlify for example, which I think were very convenient. I would love if more of the demos were deployment ready, being able to directly upload your demos into [vercel](https://github.com/CharlesCreativeContent/stytch-next/blob/main/README.md#vercel), [netlify](https://github.com/CharlesCreativeContent/stytch-netlify-example/blob/main/README.md#netlify), heroku, etc. and have a live demo in seconds would be a game changer for onboarding and top of funnel outreach. I tried the 5 demos below and was able to deploy all of them locally, but had some difficulty hosting them. Decreasing the time to a hosted application can greatly increase conversion rates on developer adoption.
 
 
 
@@ -34,25 +34,19 @@ I liked that Stytch used the magic links for their signup process, because it is
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">Travelara.org</a>
-        <br />
-      <a target="_blank" href="https://github.com/CharlesCreativeContent/Demo-Day">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Travelara.org"/>
-        </a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links</a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley2-"FlappyBug"</a>
-      <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
-          <img src="https://github.com/CharlesCreativeContent/stytch-next/raw/main/public/example-app-image.png" width="100%" alt="Rigley2-'FlappyBug'"/>
-        </a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App</a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">Matching Card Game</a>
-        <br />
-        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
-          <img src="https://user-images.githubusercontent.com/100632220/217049841-b9eeb72a-3e50-4074-839a-e64ee5d4a88c.png" width="100%" alt="Matching Card Game"/>
-        </a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App</a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links</a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App</a>
     </td>
   </tr>
 </table>
