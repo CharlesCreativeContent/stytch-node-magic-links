@@ -7,8 +7,8 @@ require('dotenv').config()
 
 const app = express();
 const port = process.env.PORT || 3000;
-const url= process.env.URL+"/" || "http://localhost:";
-const path = `${url}${port}`
+const url= "https://stytch-node-magic-links.vercel.app"
+const path = `${url}`
 const magicLinkUrl = `${path}/authenticate`
 
 // bodyParser allows us to access the body of the post request
