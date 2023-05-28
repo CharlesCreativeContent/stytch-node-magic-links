@@ -1,9 +1,14 @@
 # LifeGPT using stytch-node-magic-links
 
-## Tech used: ![OpenAI BADGE](https://img.shields.io/static/v1?label=|&message=OPENAI&color=23555f&style=plastic&logo=openai)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=285f65&style=plastic&logo=node)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=STYTCH&color=3c7f5d&style=plastic&logo=stytch)
+
+<img src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/app.gif?raw=true" width="100%" alt="gif of app login screen"/>
+
+## Tech used: ![OpenAI BADGE](https://img.shields.io/static/v1?label=|&message=OPENAI&color=23555f&style=plastic&logo=openai)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=285f65&style=plastic&logo=nodejs)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=STYTCH&color=3c7f5d&style=plastic&logo=css3)
 
 
 Thank you for taking the time to check out Life G P T! We used OpenAI to generate health, wealth and spiritual answers and Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
+
+My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
 
 ## Running the app locally
 
@@ -17,25 +22,13 @@ Thank you for taking the time to check out Life G P T! We used OpenAI to generat
    click the sign in button. You should be signed in!
 
 
-<img source="/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif4.gif?raw=true"></img>
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+## Stytch Developer Experience
 
-### Portfolio Site including links to my projects and ways to get in contact with me.
-
-My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
-
-## Optimizations
-
-When I improve this project, I would start by updating the spring and summer amimation of rain and fireflies. Currrently have fall and winter finished just need to add the other too into the Date checker. Would also like to add some javascript to add gifs to front page.
-
-## Lessons Learned:
-
-Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
+I liked that Stytch used the magic links for their signup process, because it is very minimal friction for customer onboarding. The Documentation was straight forward. There were enough demos for almost every stack and the dev team has an open forum and slack group you can join to talk to the team. The demos were very quick to get you from 0 to locally hosted application.  Some of the newer demos even have auto-deploy buttons to vercel and netlify for example, which I think were very convenient. I would love if more of the demos were deployment ready, being able to directly upload your demos into vercel, netlify, heroku, etc. and have a live demo in seconds would be a game changer for onboarding and top of funnel outreach. I tried the 5 demos below and was able to deploy all of them locally, but had some difficulty hosting them. Decreasing the time to a hosted application can greatly increase conversion rates on developer adoption.
 
 
 
-
-## More Projects
+## Demos deployed
 
 <table bordercolor="#66b2b2">
   
