@@ -40,19 +40,29 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
   
   <tr>
     <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links
+<img src="https://i.imgflip.com/7ne75d.jpg">
+</a>
     </td>
     <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App
+<img src="https://i.imgflip.com/7ne75d.jpg">
+       </a>
     </td>
     <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App
+<img src="https://i.imgflip.com/7ne75d.jpg">
+       </a>
     </td>
     <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links
+<img src="https://i.imgflip.com/7ne75d.jpg">
+       </a>
     </td>
     <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App</a>
+<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App
+<img src="https://i.imgflip.com/7ne75d.jpg">
+       </a>
     </td>
   </tr>
 </table>
