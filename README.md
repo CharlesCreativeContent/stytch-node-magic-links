@@ -24,6 +24,8 @@ My learning was focused on trying out as many Stytch Demos as possible in a few 
 
 ## Stytch Developer Experience
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/fxJBj6ExRUg)
+
 <video src=”https://youtube.com/”></video>
 I liked that Stytch used the magic links for their signup process, because it is very minimal videofriction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. 
 
