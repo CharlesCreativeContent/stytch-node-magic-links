@@ -39,19 +39,19 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="33.3%"  style="align:center;" valign="top">
+    <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links</a>
     </td>
-    <td width="33.3%" valign="top">
+    <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App</a>
     </td>
-    <td width="33.3%" valign="top">
+    <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App</a>
     </td>
-    <td width="33.3%" valign="top">
+    <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links</a>
     </td>
-    <td width="33.3%" valign="top">
+    <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App</a>
     </td>
   </tr>
