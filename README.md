@@ -41,28 +41,40 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
   <tr>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
 </a>
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rp.jpg?raw=true">
        </a>
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
        </a>
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
        </a>
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App
-<img style="width:50%" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
        </a>
     </td>
   </tr>
 </table>
+
+
+**Memes
+
+<img style="width:50%" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
+
+
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
+
+
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rp.jpg?raw=true">
+
+
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
+
+
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
