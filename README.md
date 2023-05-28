@@ -46,12 +46,12 @@ I tried the 5 demos below and was able to deploy all of them locally, but had so
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne7rp.jpg?raw=true">
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rp.jpg?raw=true">
        </a>
     </td>
     <td>
 <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App
-<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne7se.jpg?raw=true">
+<img style="width:40vw" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
        </a>
     </td>
     <td>
