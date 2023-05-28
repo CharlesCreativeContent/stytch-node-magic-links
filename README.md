@@ -8,7 +8,7 @@
 
 Thank you for taking the time to check out LifeGPT! We used OpenAI to generate health, wealth and spiritual quotes with Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
 
-My learning was focused on trying out as many Stytch demos as possible in a few hours and picking one to build a small ChapGPT style application.
+My learning was centered around analyzing as many Stytch demos as possible in a few hours and choosing one to build a small ChatGPT style application.
 
 ## Running the app locally
 
