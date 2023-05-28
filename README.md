@@ -6,7 +6,7 @@
 ## Tech used: ![OpenAI BADGE](https://img.shields.io/static/v1?label=|&message=OPENAI&color=23555f&style=plastic&logo=openai)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=285f65&style=plastic&logo=javascript)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=STYTCH&color=3c7f5d&style=plastic&logo=css3)
 
 
-Thank you for taking the time to check out LifeGPT! We used OpenAI to generate health, wealth and spiritual qutoes and Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
+Thank you for taking the time to check out LifeGPT! We used OpenAI to generate health, wealth and spiritual quotes and Node and the [Stytch API](https://stytch.com/docs/api) to send and authenticate magic links.
 
 My learning was focused on trying out as many Stytch Demos as possible in a few hours and picking the one to build a small ChapGPT style application
 
