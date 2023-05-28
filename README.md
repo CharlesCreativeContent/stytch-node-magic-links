@@ -75,10 +75,10 @@ Some of the newer demos already have auto-deploy buttons to [vercel](https://git
 <img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
 
 
-<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
+<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
 
 
 <img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
 
 
-<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
+<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
