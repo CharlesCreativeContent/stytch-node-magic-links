@@ -39,32 +39,16 @@ Some of the newer demos already have auto-deploy buttons to [vercel](https://git
 
 
 ## Demos deployed
-
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links
+• <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-node-magic-links">Node Magic Links
 </a>
-    </td>
-    <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App
+• <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-react-example">Stytch React App
        </a>
-    </td>
-    <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App
+• <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-next">Stytch Next App
        </a>
-    </td>
-    <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links
+• <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-javascript-links">Stytch Javascript Links
        </a>
-    </td>
-    <td>
-<a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App
+• <a target="_blank" href="https://github.com/CharlesCreativeContent/stytch-netlify-example">Stytch Netlify App
        </a>
-    </td>
-  </tr>
-</table>
 
 
 ## Memes
