@@ -14,7 +14,7 @@ My learning was centered around analyzing as many Stytch demos as possible in a 
 
 1. Fill in `STYTCH_PROJECT_ID` and `STYTCH_SECRET` in the `.env` file. Get your credentials from
    your [Stytch dashboard](https://stytch.com/dashboard/api-keys).
-2. Update apiKey for OpenAI un server.js
+2. Update apiKey for OpenAI in server.js
 3. Add `http://localhost:3000/authenticate` (the `PORT` set in `.env`) as a valid sign-up and
    login URL on your [Stytch dashboard](https://stytch.com/dashboard/redirect-urls).
 4. Run `npm i`
@@ -28,7 +28,7 @@ My learning was centered around analyzing as many Stytch demos as possible in a 
 [![Watch the video](https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/0FD9210A-CE0E-4D89-939F-8A197B56C13E.jpeg?raw=true)](https://youtu.be/fxJBj6ExRUg)
 
 <video src=”https://youtube.com/”></video>
-I liked that Stytch used the magic links for their signup process, because it is very minimal videofriction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. 
+I liked that Stytch used the magic links for their signup process, because it is very minimal friction for customer onboarding. The [documentation](https://stytch.com/docs) was straight forward. 
 
 There were enough demos for almost every stack and the dev team has an open [forum](https://forum.stytch.com/) and [slack group](https://stytch.slack.com/ssb/redirect) you can join to talk to the team. The demos were very quick to get you from 0 to locally hosted application. 
 
@@ -75,11 +75,6 @@ Some of the newer demos already have auto-deploy buttons to [vercel](https://git
 
 <img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne75d.jpg?raw=true">
 
-
-<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6rd.jpg?raw=true">
-
-
-<img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne6se.jpg?raw=true">
 
 
 <img style="width:100%;" src="https://github.com/CharlesCreativeContent/stytch-node-magic-links/blob/main/public/images/7ne755.jpg?raw=true">
