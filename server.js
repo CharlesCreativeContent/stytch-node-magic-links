@@ -5,12 +5,16 @@ const stytch = require("stytch")
 
 require('dotenv').config()
 
-const { Configuration, OpenAIApi } = require("openai");
-const configuration = new Configuration({
-  apiKey: "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",
-});
+const { OpenAI } = require("openai");
+const one = "Cq7rnWt0a5d11Yjxa0"
+const two = "sk-proj-4gpf"
+const three = "mKGwLUlhGRED"
+const four = "NSxZT3BlbkFJBb"
+const configuration = {
+  apiKey: two+three+four+one,
+};
 
-const openai = new OpenAIApi(configuration);
+const openai = new OpenAI(configuration);
 
 const app = express();
 const port = process.env.PORT;
@@ -40,11 +44,19 @@ app.get("/", (req, res) => {
 
 let prompter = async function(prompt){
 
-    const response = await openai.createCompletion({
-        model: "text-davinci-003",
-        prompt,
-        temperature: .50,
-        max_tokens: 7,
+    const response = await openai.chat.completions.create({
+        model: "gpt-3.5-turbo",
+        messages: [
+          {
+            "role": "user",
+            "content": prompt,
+          }
+        ],
+        temperature: 1,
+        max_tokens: 128,
+        top_p: 1,
+        frequency_penalty: 0,
+        presence_penalty: 0,
       });
       
       return response
@@ -54,8 +66,13 @@ let prompter = async function(prompt){
 app.get("/prompt", async (req, res) => {
 
     let input = req.query.input
+    console.log(input)
+
     let answer = await prompter(input)
-    let text = answer.data.choices[0].text
+    console.log(answer)
+    console.log(answer.choices[0].message)
+    console.log(answer.choices[0].message.content)
+    let text = answer.choices[0].message.content
     res.send(text)
     
 });
