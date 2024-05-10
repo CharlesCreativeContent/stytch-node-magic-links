@@ -49,14 +49,19 @@
     let clearPrompt = function(){
         title.innerHTML = ""
         chatBox.innerHTML = ""
+        input.value = ""
     }
     //function to update chat
     let updateChat = function(answer){
         chatBox.innerHTML = answer
     }
     let grabPrompt = function(){
-    let prompt = input.innerHTML
+    let prompt = input.value
+    console.log(prompt)
+    
     var query = encodeURIComponent(prompt)
+    console.log(query)
+
     fetch("/prompt?input="+query).then(text=>text.text()).then(guess=>{
 
         console.log(guess)
